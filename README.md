@@ -8,4 +8,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently a CS student at Esprit.
 - 📚 I’m currently learning  Front end and Back End web development .
 - 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hind-khayati-744609179/) [Gmail](mailto:hind.khayti@esprit.tn)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/hind-khayati-744609179/"  target="_blank" >Linkedin</a> [Gmail](mailto:hind.khayti@esprit.tn)

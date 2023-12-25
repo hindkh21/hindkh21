@@ -5,12 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hindkh21" alt="hindkh21" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning Machine Learning
 
-- 📝 I regularly write articles on [https://medium.com/@hind.khayati](https://medium.com/@hind.khayati)
+- 📝 I regularly write articles on [[https://medium.com/@hind.khayati](https://medium.com/@hindkh)](https://medium.com/@hindkh)
 
-- 📫 How to reach me **hind.khayti@esprit.tn**
-- ### Support Me
+- 📫 How to reach me **khayatihind20@gmail.com**
 
 ### Support Me
 

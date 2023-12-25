@@ -10,6 +10,12 @@
 - 📝 I regularly write articles on [https://medium.com/@hind.khayati](https://medium.com/@hind.khayati)
 
 - 📫 How to reach me **hind.khayti@esprit.tn**
+- ### Support Me
+
+If you find my work helpful, you can support me by buying me a coffee!
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/hindkhayati&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/hindkhayati)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

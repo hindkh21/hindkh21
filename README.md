@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Machine Learning
 
-- 📝 I regularly write articles on [[https://medium.com/@hind.khayati](https://medium.com/@hindkh)](https://medium.com/@hindkh)
+- 📝 I regularly write articles on [(https://medium.com/@hindkh)](https://medium.com/@hindkh)
 
 - 📫 How to reach me **khayatihind20@gmail.com**
 
